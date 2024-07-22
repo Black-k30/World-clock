@@ -1,0 +1,50 @@
+[
+    {
+        "ISO": "AF",
+        "Country": "Afghanistan",
+        "Timezone": "Asia/Kabul",
+        "Offset": 270
+    },
+    {
+        "ISO": "AX",
+        "Country": "Aland Islands",
+        "Timezone": "Europe/Mariehamn",
+        "Offset": 180
+    },
+    {
+        "ISO": "AL",
+        "Country": "Albania",
+        "Timezone": "Europe/Tirane",
+        "Offset": 120
+    },
+    {
+        "ISO": "DZ",
+        "Country": "Algeria",
+        "Timezone": "Africa/Algiers",
+        "Offset": 60
+    },
+    {
+        "ISO": "AS",
+        "Country": "American Samoa",
+        "Timezone": "Pacific/Pago_Pago",
+        "Offset": -660
+    },
+    {
+        "ISO": "AD",
+        "Country": "Andorra",
+        "Timezone": "Europe/Andorra",
+        "Offset": 120
+    },
+    {
+        "ISO": "AO",
+        "Country": "Angola",
+        "Timezone": "Africa/Luanda",
+        "Offset": 60
+    },
+    {
+        "ISO": "AI",
+        "Country": "Anguilla",
+        "Timezone": "America/Anguilla",
+        "Offset": -240
+    }
+]
